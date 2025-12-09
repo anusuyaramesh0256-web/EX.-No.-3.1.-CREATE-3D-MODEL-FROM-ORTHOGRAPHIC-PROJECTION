@@ -40,7 +40,9 @@ To create a 3D model from given orthographic projection.
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
-## OUTPUT:![exp3 1 Drawing new_page-0001](https://github.com/user-attachments/assets/96833ba3-3b3a-47a9-8f16-13c536a6fee8)
+## OUTPUT:
+![exp3 1 Drawing new_page-0001](https://github.com/user-attachments/assets/3fbb8572-77e9-4ba8-9703-5ad3496a8736)
+
 
 
 ## RESULT:
